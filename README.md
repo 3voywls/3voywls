@@ -7,28 +7,10 @@ I am a 4th-year student pursuing a B.Tech. in Computer Science specialising in C
 
 I am eager to apply my practical cybersecurity skills in a dynamic L1 SOC role, contributing to a resilient defense against evolving cyber threats.
 
-## Skills
-
-
-
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Endpoint
-
-
-### SIEM
-
-
-### Penetration
-
-<div>
-    <img src="https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white" /
-</div>
+- Wireshark
+- Metasploit
 
 ## Certifications
 
@@ -36,5 +18,4 @@ I am eager to apply my practical cybersecurity skills in a dynamic L1 SOC role, 
 
 ## Projects
 
-- SOC Automation Project
-- Port Scanner
+- <a href="https://github.com/3voywls/Port-Scanner">Port Scanner</a>
